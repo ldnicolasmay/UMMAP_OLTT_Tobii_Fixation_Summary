@@ -1,0 +1,6 @@
+boxsdk[jwt]>=2.0.0a12
+numpy
+pandas
+requests
+xlsxwriter
+colored
