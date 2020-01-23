@@ -5,7 +5,7 @@ import re
 import argparse
 from colored import fg, attr
 
-import oltt_tobii_fixation_summary_helpers as hlps
+import ummap_oltt_tobii_fixation_summary_helpers as hlps
 
 
 def main():
